@@ -1,0 +1,6 @@
+resources :
+
+https://docs.python.org/3.9/
+https://pandas.pydata.org/docs/
+https://stackoverflow.com/questions/33365055/attributeerror-can-only-use-dt-accessor-with-datetimelike-values
+and course contact 
